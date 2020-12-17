@@ -1,0 +1,7 @@
+{
+  "name": "ToDoListYnov",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
